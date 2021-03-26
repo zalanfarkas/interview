@@ -2,8 +2,8 @@
   {
     "id": "1",
     "image": "https://raw.githubusercontent.com/zalanfarkas/interview/main/images/1.jpg", 
-    "title": "About me", 
-    "content": "I live in Aberdeen and work for Scottish Counselling Services at the moment. I'm the one-man band behind their Session on Demand application which has been a great opportunity to gain hands-on experience with all stages of product development. Outside work, I also enjoy helping out friends with their coding issues as well as doing code reviews with them. These are some of the very few things people still can do during the lockdowns.."
+    "title": "About me",
+    "content": "I'm Zalan. I live in Aberdeen and work for Scottish Counselling Services at the moment. I'm the one-man band behind their Session on Demand application which has been a great opportunity to gain hands-on experience with all stages of product development. Outside work, I also enjoy helping out friends with their coding issues as well as doing code reviews with them. These are some of the very few things people still can do during the lockdowns. :)"
   },
   {
     "id": "2",
@@ -12,33 +12,27 @@
     "content": "In general, Session on Demand is intended to help with the co-ordination of counsellor teams as well as to provide a secure, central place for client-related information. Moreover, its school version also aims to act as an information hub for school counselling services."
   },
   {
-    "id": "3",
-    "image": "https://raw.githubusercontent.com/zalanfarkas/interview/main/images/3.jpg", 
-    "title": "Session on Demand: Challenges", 
-    "content": ""
-  },
-  {
     "id": "4",
     "image": "https://raw.githubusercontent.com/zalanfarkas/interview/main/images/4.jpg", 
-    "title": "", 
-    "content": ""
-  },
-  {
-    "id": "5",
-    "image": "https://raw.githubusercontent.com/zalanfarkas/interview/main/images/5.jpg", 
     "title": "Strengths", 
     "content": "My colleagues say I'm organised and my supervisor often ask for information from me when she forgets about something."
   },
   {
-    "id": "6",
-    "image": "https://raw.githubusercontent.com/zalanfarkas/interview/main/images/6.jpg", 
+    "id": "5",
+    "image": "https://raw.githubusercontent.com/zalanfarkas/interview/main/images/5.jpg", 
     "title": "Do you have experience with React? a.k.a. Weaknesses", 
     "content": "I have made some toy apps back in the days when class-based components were the hyped ones. I haven't done any big projects with React. Since then I just kept track of major changes such as hooks. However, I would be happy to learn anything that's necessary to carry out the project. Also, in order to make up for my lack of experience, I would probably purchase a template (e.g.https://usegravity.app/web/video/) to give the project a solid base and be able to inherit best practices for the rest of the features."
+  },
+  {
+    "id": "6",
+    "image": "https://raw.githubusercontent.com/zalanfarkas/interview/main/images/6.jpg", 
+    "title": "Anything else?",
+    "content": "I would be also happy to do some pair-programming or code review for a few hours per week even if you find me unsuitable for the position."
   },
   {
     "id": "7",
     "image": "https://raw.githubusercontent.com/zalanfarkas/interview/main/images/7.jpg", 
     "title": "Questions", 
-    "content": "Could you tell me more about the project?"
+    "content": "Could you tell me more about the project? What will be the main features? Is it going to be integrated into other apps of Children 1st?"
   }
 ]
